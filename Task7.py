@@ -107,3 +107,4 @@ for ash,zod,jenk in orderings:
             print("Ash" , ageText[ash[0]],wtText[ash[1]])
             print("Zod" , ageText[zod[0]],wtText[zod[1]])
             print("Jenk" , ageText[jenk[0]],wtText[jenk[1]])
+            
